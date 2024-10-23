@@ -1,6 +1,6 @@
 🎶 **YouTube Playlist Length Calculator** is an innovative tool tailored for YouTube enthusiasts and content creators who wishes to manage their video playlists efficiently. In today’s fast-paced digital world, understanding how much time your favorite playlists take can enhance you're viewing experience, allowing for better planning and enjoyment. With just a few clicks, you can easily calculate the total duration of any YouTube playlist. Simply paste you're playlist link into our tool, and get instant results that offer you valuable insights into your viewing habits.
 
-![image](https://github.com/user-attachments/assets/46a7b185-c9d9-4f26-a0fa-fe6ff0c80c7a)
+![Youtube Playlist Length Calculator](https://github.com/user-attachments/assets/46a7b185-c9d9-4f26-a0fa-fe6ff0c80c7a)
 
 🔗 Visit us at: [YouTube Playlist Length Calculator](https://www.youtubeplaylistlengthcalculator.com/)
 
