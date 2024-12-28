@@ -86,8 +86,7 @@ To help improve visibility and rank on search engines, here are some essential S
 - YouTube playlist  
 - How to see how long a YouTube playlist is  
 - YouTube video length finder  
-- How long is my YouTube playlist  
-- Playlist calculator  
+- How long is my YouTube playlist    
 - YouTube playlist duration  
 
 
